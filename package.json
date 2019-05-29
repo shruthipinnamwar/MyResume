@@ -1,9 +1,6 @@
 {
   "name": "MyResume",
   "version": "0.0.1",
-  "engines": {
-    "node": "8.9.1"
-  },
   "description": "",
   "private": true,
   "devDependencies": {
